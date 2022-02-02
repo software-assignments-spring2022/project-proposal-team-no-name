@@ -2,7 +2,7 @@
 
 ## Project title
 
-Online Discussion and Sharing Platform - Thoughts
+Thoughts
 
 ## What and why?
 
